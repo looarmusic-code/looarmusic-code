@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=looarmusic-code" alt="looarmusic-code" /></a> </p>
 
-- 🔭 working on [Mats Vde](www.matsvde.com)
+- working on [Mats Vde](https://www.matsvde.shop)
 
 - 📄 Know about my experiences [linktr.ee/looar.odb](linktr.ee/looar.odb)
 
