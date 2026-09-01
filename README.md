@@ -25,12 +25,8 @@ Computer science in Anhanguera - Brazil. Musicist.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=looarmusic-code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=looarmusic-code&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
 ## 🔗 Connect
 
+- 🌐 [Website](matsvde.shop)
+- 📧 [Email](mailto:looarmsc@gmail.com)
 - 🐙 [GitHub](https://github.com/looarmusic-code)
-
-## ☕ Buy Me a Coffee
