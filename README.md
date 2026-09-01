@@ -19,7 +19,7 @@ const Raul = {
 
 ## 👨‍💻 About Me
 
-Computer science in Anhanguera - Brazil. Musicist. 
+Computer science in Anhanguera - Brazil. Musicist. Student. 
 
 📍 Belo Horizonte, Brazil | 🏢 
 
