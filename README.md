@@ -1,7 +1,7 @@
 ```javascript
 const Raul = {
     pronouns: "He" | "Him",
-    code: ["python", "MySQL", "AWS", "C", "JAVA", "Node", "React", "Vite", "TypeScript", "Illustrator", "Photoshop", "Premiere", "AfterEffects", "Fl Studio", "Ableton Live"],
+    code: ["python", "MySQL", "AWS", "C", "JAVA", "Node", "Python" "React", "Vite", "TypeScript", "Illustrator", "Photoshop", "Premiere", "AfterEffects", "Fl Studio", "Ableton Live"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue", "Next.js"],
@@ -27,6 +27,5 @@ Computer science in Anhanguera - Brazil. Musicist. Student.
 
 ## 🔗 Connect
 
-- 🌐 [Website](matsvde.shop)
 - 📧 [Email](mailto:looarmsc@gmail.com)
 - 🐙 [GitHub](https://github.com/looarmusic-code)
