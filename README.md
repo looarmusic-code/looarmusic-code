@@ -1,6 +1,5 @@
 ```javascript
 const Raul = {
-    pronouns: "He" | "Him",
     code: ["MySQL", "AWS", "C", "JAVA", "Node", "Python" "React", "Vite", "TypeScript", "Illustrator", "Photoshop", "Premiere", "AfterEffects", "Fl Studio", "Ableton Live"],
     technologies: {
         frontEnd: {
