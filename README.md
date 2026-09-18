@@ -1,6 +1,6 @@
 ```javascript
 const Raul = {
-    code: ["MySQL", "AWS", "C", "JAVA", "Node", "Python" "React", "Vite", "TypeScript", "Illustrator", "Photoshop", "Premiere", "AfterEffects", "Fl Studio", "Ableton Live"],
+    skill: ["MySQL", "AWS", "C", "JAVA", "Node", "Python" "React", "Vite", "TypeScript", "Illustrator", "Photoshop", "Premiere", "AfterEffects", "Fl Studio", "Ableton Live"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue", "Next.js"],
